@@ -1,6 +1,6 @@
 package view;
 
-import input.Input;
+import inPut.Input;
 import controller.StudentController;
 import controller.StudentManagement;
 import IOFile.ReadWriteFile;
